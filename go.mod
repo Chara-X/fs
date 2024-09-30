@@ -1,6 +1,6 @@
 module github.com/Chara-X/fs
 
-go 1.22.2
+go 1.23.1
 
 replace github.com/Chara-X/free => ../free
 
