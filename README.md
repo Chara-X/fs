@@ -25,6 +25,6 @@ func ExampleFS() {
 }
 ```
 
-## References
+## Reference
 
 [Case Study: A Simple Filesystem](https://azrael.digipen.edu/~mmead/www/Courses/CS180/Simple-FS.html)
